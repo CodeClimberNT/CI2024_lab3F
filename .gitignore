@@ -18,6 +18,7 @@
 .venv
 /poetry.toml
 
+**/lib/*
 # Output of the algorithm 
 **/.cache/*
 # screenshot
